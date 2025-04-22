@@ -1,5 +1,5 @@
 # 💫 About Me:
-☕ Java Junior Developer 💻<br>🔭 I’m currently working on ![Minsait](https://es.linkedin.com/company/minsait)
+☕ Java Junior Developer 💻<br>🔭 I’m currently working on <p><a href="https://es.linkedin.com/company/minsait">Minsait</p>
 
 
 ## 🌐 Socials:
@@ -14,5 +14,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alvarovr0&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
