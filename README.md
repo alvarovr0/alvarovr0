@@ -1,5 +1,5 @@
 # 💫 About Me:
-☕ Java Junior Developer 💻<br>🔭 I’m currently working on Minsait
+☕ Java Junior Developer 💻<br>🔭 I’m currently working on ![Minsait](https://es.linkedin.com/company/minsait)
 
 
 ## 🌐 Socials:
